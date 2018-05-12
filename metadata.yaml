@@ -1,0 +1,27 @@
+_repo: Laxd-la-SagaTranslated-from-the-Icelandic_17803
+_version: 0.1.0
+alternative_title: Laxdaela Saga
+contributor:
+  translator:
+    agent_name: Press, Muriel A. C.
+    gutenberg_agent_id: '7607'
+    url: http://www.gutenberg.org/2009/agents/7607
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17803'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sagas -- Translations into English'
+- !lcc 'PT'
+title: 'Laxdæla Saga
+
+  Translated from the Icelandic'
+url: http://www.gutenberg.org/ebooks/17803
